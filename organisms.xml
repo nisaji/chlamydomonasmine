@@ -1,0 +1,9 @@
+<items>
+<item id="-1_1" class="Organism">
+<attribute name="genus" value="Chlamydomonas"/>
+<attribute name="name" value="Chlamydomonas reinhardtii"/>
+<attribute name="shortName" value="C. reinhardtii"/>
+<attribute name="species" value="reinhardtii"/>
+<attribute name="taxonId" value="3055"/>
+</item>
+</items>
